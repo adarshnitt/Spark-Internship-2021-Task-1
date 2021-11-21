@@ -1,5 +1,10 @@
 # Spark-Internship-2021, Task-1
-Prediction using  Supervised Machine Learning Algorithm<br>
+Under The Sparks Foundation 2021(The Graduate Rotational Internship Program). I Prince learned about<br>
+<ol>
+ <h3>Problem statement</h3>
+ <li>Prediction using Supervised ML Algorithm</li>
+ <li> Trained Machine learning Linear Regression in two variable algorithm</li>
+</ol>
 <br>
 <h2> Predicting optimum number of clusters for Iris Dataset </h2>
 <h3> Data Link: </h3> <h4> https://bit.ly/3kXTdox</h4>

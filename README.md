@@ -1,5 +1,5 @@
 # Spark-Internship-2021, Task-1
-Under The Sparks Foundation 2021(The Graduate Rotational Internship Program). I Prince learned about<br>
+Under The Sparks Foundation 2021(The Graduate Rotational Internship Program). I  learned about<br>
 <ol>
  <h3>Problem statement</h3>
  <li>Prediction using Supervised ML Algorithm</li>

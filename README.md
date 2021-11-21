@@ -7,5 +7,5 @@ Under The Sparks Foundation 2021(The Graduate Rotational Internship Program). I 
  <li> Trained Machine learning Linear Regression in two variable algorithm</li>
 </ol><br>
 Data Link: http://bit.ly/w-data
-<h2> Predicting optimum number of clusters for Iris Dataset </h2>
+
 
